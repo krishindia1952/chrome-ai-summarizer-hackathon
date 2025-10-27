@@ -67,14 +67,14 @@ In today’s fast-paced digital world, users are overwhelmed by long-form conten
 
 ## 📽️ Demo Video
 
-📺 [Insert YouTube or Vimeo link here]  
+📺 [[Insert YouTube or Vimeo link here]  ](https://www.youtube.com/watch?v=2-Gta6tUj-A)
 > The demo shows the extension’s UI and intended flow. Due to limited API availability, the summarization is simulated on unsupported devices.
 
 ---
 
 ## 🔗 GitHub Repository
 
-🔗 [Insert GitHub link here]
+🔗 [[Insert GitHub link here]](https://github.com/krishindia1952/chrome-ai-summarizer-hackathon/blob/main/READ.md)
 
 ---
 
